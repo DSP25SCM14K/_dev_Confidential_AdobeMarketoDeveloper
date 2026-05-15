@@ -1,4 +1,4 @@
-# Dev Kumar - Confidential Adobe Marketo Developer Portfolio
+# Dev Kumar - Marketing Automation Portfolio
 
 Static dark-theme portfolio website built from `_dev_Confidential_AdobeMarketoDeveloper.docx`.
 
